@@ -1,4 +1,4 @@
-# Frontend Engineer Assignment
+# TypeScript Frontend Engineer Assignment
 
 ## 要求
 
