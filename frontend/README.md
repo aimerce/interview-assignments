@@ -7,6 +7,7 @@
 - 数据来源于服务端
 
 Figma设计稿参考地址：
+https://www.figma.com/file/JP9zSbA8F8hqPKoAuZ1zxB/Banner?type=design&node-id=0-1&mode=design&t=X7xr8Rea7vTl7oGP-0
 
 轮播图的参考数据结构
 
